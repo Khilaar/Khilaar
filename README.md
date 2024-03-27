@@ -4,9 +4,6 @@
 
 🎓 I recently completed my journey at Constructor Academy in Zurich, Switzerland, where I underwent an intensive bootcamp experience. This immersive program equipped me with invaluable insights and hands-on experience, transforming me into a versatile and adaptable developer primed to take on real-world projects.
 
-![image](https://github.com/Khilaar/Khilaar/assets/127531444/aef96ca3-b343-4306-a993-48de405284b6)
-
-
 🚀 One of my proudest achievements during the bootcamp was the completion of **FactoryForge**, the final project at Constructor Academy. This project challenged me to apply all the skills and knowledge I acquired throughout the program, and it stands as a testament to my ability to tackle complex problems and deliver innovative solutions.
 https://github.com/Khilaar/FactoryForge
 
