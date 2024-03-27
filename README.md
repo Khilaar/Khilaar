@@ -1,4 +1,4 @@
-👋 Hi there! I'm Luca, a JavaScript developer with a passion for crafting immersive web experiences. My expertise lies in front-end development, particularly in React.js, where I love bringing user interfaces to life with elegant and responsive designs.
+👋 Hi there! I'm Luca, a Web Developer with a passion for crafting immersive web experiences. My expertise lies in front-end development, particularly in React.js, where I love bringing user interfaces to life with elegant and responsive designs.
 
 💻 With a solid foundation in full-stack development, I'm proficient in Python as well. Whether it's building scalable backend systems or creating seamless integrations between front and back ends, I enjoy the challenges that come with building robust and efficient applications.
 
