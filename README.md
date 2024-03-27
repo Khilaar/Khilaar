@@ -11,6 +11,10 @@ https://github.com/Khilaar/FactoryForge
 
 📫 Want to chat about JavaScript, React, Python, or anything in between? Feel free to reach out to me via email at luca.oliverio@hotmail.com or connect with me on LinkedIn. Let's build something amazing together!
 
+📑 My CV
+[CV Software Developer.pdf](https://github.com/Khilaar/Khilaar/files/14775165/CV.Software.Developer.pdf)
+
+
 <!---
 Khilaar/Khilaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
