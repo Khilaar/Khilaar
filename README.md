@@ -11,8 +11,12 @@ https://github.com/Khilaar/FactoryForge
 
 📫 Want to chat about JavaScript, React, Python, or anything in between? Feel free to reach out to me via email at luca.oliverio@hotmail.com or connect with me on LinkedIn. Let's build something amazing together!
 
-📑 My CV
+📑 My german CV
 [CV Software Developer.pdf](https://github.com/Khilaar/Khilaar/files/14775165/CV.Software.Developer.pdf)
+
+📑 My eniglish CV
+[CV Software Developer EN.pdf](https://github.com/Khilaar/Khilaar/files/14805026/CV.Software.Developer.EN.pdf)
+
 
 
 <!---
