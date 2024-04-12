@@ -17,7 +17,7 @@ https://github.com/Khilaar/FactoryForge
 📑 My eniglish CV
 [CV Software Developer EN.pdf](https://github.com/Khilaar/Khilaar/files/14805026/CV.Software.Developer.EN.pdf)
 
-My CV Website
+🖥 My CV Website
 https://oliverio.netlify.app/
 
 
