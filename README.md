@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Luca — Software Developer & Founder
+## 👋 Hi, I’m Luca — Software Developer
 
 I’m a software developer focused on building **practical, scalable digital solutions** — from modern web applications to enterprise-grade SharePoint & Microsoft Teams integrations.
 
