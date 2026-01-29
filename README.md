@@ -1,29 +1,63 @@
-👋 Hi there! I'm Luca, a Web Developer with a passion for crafting immersive web experiences. My expertise lies in front-end development, particularly in React.js, where I love bringing user interfaces to life with elegant and responsive designs.
+## 👋 Hi, I’m Luca — Software Developer & Founder
 
-💻 With a solid foundation in full-stack development, I'm proficient in Python as well. Whether it's building scalable backend systems or creating seamless integrations between front and back ends, I enjoy the challenges that come with building robust and efficient applications.
+I’m a software developer focused on building **practical, scalable digital solutions** — from modern web applications to enterprise-grade SharePoint & Microsoft Teams integrations.
 
-🎓 I recently completed my journey at Constructor Academy in Zurich, Switzerland, where I underwent an intensive bootcamp experience. This immersive program equipped me with invaluable insights and hands-on experience, transforming me into a versatile and adaptable developer primed to take on real-world projects.
+My core expertise lies in **front-end development** with React and TypeScript, combined with solid full-stack experience and a strong focus on real-world usability, maintainability, and performance.
 
-🚀 One of my proudest achievements during the bootcamp was the completion of **FactoryForge**, the final project at Constructor Academy. This project challenged me to apply all the skills and knowledge I acquired throughout the program, and it stands as a testament to my ability to tackle complex problems and deliver innovative solutions.
-https://github.com/Khilaar/FactoryForge
+---
 
-📹 Presentation FactoryForge https://drive.google.com/file/d/1dFMOlFGws-RatBqFIrf4ktHWVbyN3qsG/view
+## 💼 Professional Experience
 
-📫 Want to chat about JavaScript, React, Python, or anything in between? Feel free to reach out to me via email at luca.oliverio@hotmail.com or connect with me on LinkedIn. Let's build something amazing together!
+After completing an intensive bootcamp at **Constructor Academy (Zurich)**, I started working as a **Frontend Developer** in early 2024, specializing in:
 
-📑 My german CV
-[CV Software Developer.pdf](https://github.com/Khilaar/Khilaar/files/14775165/CV.Software.Developer.pdf)
+- SharePoint Framework (SPFx) WebParts  
+- Microsoft Teams integrations  
+- Custom React-based business applications  
 
-📑 My eniglish CV
-[CV Software Developer EN.pdf](https://github.com/Khilaar/Khilaar/files/14805026/CV.Software.Developer.EN.pdf)
+Since then, I’ve:
+- built multiple **custom WebParts** from scratch  
+- implemented **feature enhancements and change requests**  
+- debugged and stabilized existing enterprise solutions  
+- worked closely with real users, requirements, and production systems  
 
-🖥 My CV Website
-https://oliverio.netlify.app/
+This experience shaped my approach to building **robust, maintainable software in real-world environments**.
 
+---
 
+## 🧠 Tech Stack
 
+**Languages & Frameworks**
+- JavaScript / TypeScript  
+- React & React Native  
+- Python  
 
-<!---
-Khilaar/Khilaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Platforms & Tools**
+- SharePoint Online & Microsoft Teams  
+- SharePoint Framework (SPFx)  
+- Azure DevOps  
+- n8n  
+- AI APIs & automation workflows  
+
+---
+
+## 🔧 Development Workflow
+
+Most of my professional development work is done in **Azure DevOps** within **private enterprise repositories**.
+
+As a result, a significant part of my daily development activity — including commits, pull requests, and code reviews — is not visible on my public GitHub profile.
+
+---
+
+## 🧪 Selected Project
+
+### 🏭 FactoryForge  
+Final project at Constructor Academy — a full-stack application showcasing system design, teamwork, and end-to-end development.
+
+🔗 GitHub: https://github.com/Khilaar/FactoryForge
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: **luca.oliverio@hotmail.com**
+- 🌐 Website / CV: https://oliverio.netlify.app/
